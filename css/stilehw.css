@@ -1,0 +1,94 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+input,button,textarea{font-family: inherit;}
+
+input::-ms-clear{display: block;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding: 0;border: 0;}
+a, a:visited{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+.q{
+	margin: 0 535px 33px 2px;
+	line-height: 1.79;
+	border: 1px solid #000;
+}
+
+.w{
+	margin: 33px 10px 2px 1px;
+	border: 1px solid #000;
+}
+
+.e{
+	margin: 2px 94px 32px 0;
+	display: block;
+	border: 1px solid #000;
+}
+
+.r{
+	width: 1145px;
+	height: 86px;
+	margin: 32px 0 34px 3px;
+	line-height: 1.79;
+	border: 1px solid #000;
+}
+
+.t{
+	margin: 34px 41px 35px 3px;
+	display: inline;
+	border: 1px solid #000;
+}
+
+.y{
+	width: 480px;
+	height: 14px;
+	margin: 34px 41px 35px 10px;
+	display: inline;
+	border: 1px solid #000;
+}
+
+.u{
+	width: 503px;
+	height: 14px;
+	margin: 35px 42px 37px 2px;
+	text-align: center;
+	display: inline-block;
+	border: 1px solid #000;
+}
+
+.o{
+	width: 343px;
+	height: 111px;
+	padding: 60px 0;
+	margin: 37px 202px 0 2px;
+	display: block;
+	text-align: center;
+	border: 1px solid #000;
+}
